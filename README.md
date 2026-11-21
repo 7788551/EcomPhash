@@ -39,7 +39,7 @@ I created this project to practice and strengthen my .NET development skills, im
 
 ## Purpose
 
-This repository serves as a record of my hands-on practice, learning progress, and interview preparation as a .NET developer.
+This repository serves as a record of my hands-on practice on Passwordhash and JWTkey , learning progress, and interview preparation as a .NET developer.
 
 I will continue updating the project as I learn new concepts and improve the implementation.
 
